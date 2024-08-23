@@ -1,0 +1,39 @@
+{
+  "name": "com.studio23.storebuilduploader",
+  "version": "0.0.1",
+  "displayName": "Store Build Uploader",
+  "description": "Utility Tool to Make Store Build Uploads Convinent",
+  "unity": "2022.3",
+  "unityRelease": "10f1",
+  "documentationUrl": "https://studio-23-xyz.github.io/com.studio23.storebuilduploader/manual/",
+  "changelogUrl": "https://studio-23-xyz.github.io/com.studio23.storebuilduploader/changelog/CHANGELOG.html",
+  "licensesUrl": "https://studio-23-xyz.github.io/com.studio23.storebuilduploader/license/LICENSE.html",
+  "scopedRegistries": [
+    {
+      "name": "Studio 23",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.studio23.ss2"
+      ]
+    }
+  ],
+
+  "keywords": [
+    "Store Uploader",
+    "Steam",
+    "itch.io"
+  ],
+  "author": {
+    "name": "Studio 23",
+    "email": "contact@studio-23.xyz",
+    "url": "https://studio-23.xyz"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Studio-23-xyz/com.studio23.storebuilduploader.git"
+  },
+  "license": "MIT"
+
+
+}
