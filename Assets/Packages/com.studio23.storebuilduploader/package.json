@@ -13,7 +13,7 @@
       "name": "Studio 23",
       "url": "https://package.openupm.com",
       "scopes": [
-        "com.studio23.ss2",
+        "com.studio23.ss2"
       ]
     }
   ],
