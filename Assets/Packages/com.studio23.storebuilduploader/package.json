@@ -5,8 +5,8 @@
   "description": "Utility Tool to Make Store Build Uploads Convinent",
   "unity": "2022.3",
   "unityRelease": "10f1",
-  "documentationUrl": "https://studio-23-xyz.github.io/com.studio23.storebuilduploader/manual/",
-  "changelogUrl": "https://studio-23-xyz.github.io/com.studio23.storebuilduploader/changelog/CHANGELOG.html",
+  "documentationUrl": "https://studio-23-xyz.github.io/com.studio23.storebuilduploader/Assets/Packages/com.studio23.storebuilduploader/README.html",
+  "changelogUrl": "https://studio-23-xyz.github.io/com.studio23.storebuilduploader/Assets/Packages/com.studio23.storebuilduploader/CHANGELOG.html",
   "licensesUrl": "https://studio-23-xyz.github.io/com.studio23.storebuilduploader/license/LICENSE.html",
   "scopedRegistries": [
     {
