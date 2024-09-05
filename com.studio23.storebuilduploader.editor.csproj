@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Packages\com.studio23.storebuilduploader\Editor\SteamUploaderWindow.cs" />
+    <Compile Include="Assets\Packages\com.studio23.storebuilduploader\Editor\SteamUploadConfig.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Packages\com.studio23.storebuilduploader\Editor\com.studio23.storebuilduploader.editor.asmdef" />
@@ -968,10 +969,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="com.studio23.storebuilduploader.csproj">
-      <Project>{1A694530-5D70-162C-94FB-9C6CECA74385}</Project>
-      <Name>com.studio23.storebuilduploader</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

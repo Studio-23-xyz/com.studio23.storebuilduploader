@@ -1,6 +1,6 @@
 {
   "name": "com.studio23.storebuilduploader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "displayName": "Store Build Uploader",
   "description": "Utility Tool to Make Store Build Uploads Convinent",
   "unity": "2022.3",
